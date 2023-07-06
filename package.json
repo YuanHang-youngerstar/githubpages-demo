@@ -1,0 +1,11 @@
+{
+  "name": "githubpages-demo",
+  "version": "1.0.0",
+  "description": "初始化一下，否则vercel无法部署",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
