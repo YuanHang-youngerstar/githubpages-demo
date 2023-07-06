@@ -5,8 +5,14 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-	"build": "vue-cli-service build"
+    "build": "vue-cli-service build"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@vue/cli": "^5.0.8"
+  },
+  "dependencies": {
+    "vue": "^3.3.4"
+  }
 }
